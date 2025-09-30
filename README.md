@@ -43,7 +43,7 @@ git clone https://github.com/avramovat/reservation-site-react.git
 ```
 ### 2. Navigate into the folder
 ```bash 
-cd reservation-site-react
+cd reservation-site
 ```
 ### 3. Install dependencies
 ```bash 
