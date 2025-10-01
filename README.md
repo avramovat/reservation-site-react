@@ -20,7 +20,9 @@ The app allows users to easily create, edit, and manage table reservations with 
   - Maximum 50 guests per time slot
   - Minimum 1 guest
 - 📋 **Reservation List**
-  - View all existing reservations in one place  
+  - View all existing reservations in one place
+- ⏰ Reminder system
+   – sends a dedicated notification for each reservation scheduled for the current day.
 - 💾 **LocalStorage Support**
   - Reservations are stored locally in the browser  
 
